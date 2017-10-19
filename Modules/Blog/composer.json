@@ -1,0 +1,15 @@
+{
+    "name": "codeedu/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Matheus Fernandes",
+            "email": "ma-fo-li@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\Blog\\": ""
+        }
+    }
+}
